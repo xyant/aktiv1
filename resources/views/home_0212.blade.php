@@ -35,6 +35,6 @@ li a:hover:not(.active) {
 </ul>
 
 </body>
-   <h1>Home<h1>
+   <h1>WELCOME TO MY WEBSITE , PLS CHECK ARTIKEL AND CONTACT<h1>
  </body>
 </html>
